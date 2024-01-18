@@ -1,0 +1,16 @@
+button{
+    width: 100px;
+    height: auto;
+    margin: 10px;
+    font-size: 20px;
+    background-color: red;
+}
+.boton-verde{
+    background-color: green;
+}
+.boton-rojo{
+    background-color: red;
+}
+.boton-amarillo{
+    background-color: yellow;
+}
